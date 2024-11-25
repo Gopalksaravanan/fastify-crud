@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript output directory
+/dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# TypeScript build
+*.tsbuildinfo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+
+# Other unwanted files
+*.tgz
+*.swp
